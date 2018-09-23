@@ -1,0 +1,10 @@
+Relative entropy: inf
+Relative entropy: inf
+Relative entropy: inf
+Relative entropy: inf
+Relative entropy: inf
+Relative entropy: 0.19264
+Relative entropy: 0.520999
+Relative entropy: inf
+Relative entropy: inf
+Relative entropy: inf

@@ -1,0 +1,10 @@
+1.91762 seconds
+2.11512 seconds
+1.8119 seconds
+1.92848 seconds
+2.03967 seconds
+1.89397 seconds
+1.84578 seconds
+1.76952 seconds
+2.18461 seconds
+1.79379 seconds

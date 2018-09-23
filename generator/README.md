@@ -1,0 +1,1 @@
+Just started some basic things. Currently the generateMotif function in data_generator.cpp does nothing. Right now the program takes 4 int arguments and generates random DNA sequences. The next step to do is 1.3 on the miniProject guideline sheet. The values for p were taken a TA's moodle post.
